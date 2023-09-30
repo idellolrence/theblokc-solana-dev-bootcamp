@@ -1,7 +1,7 @@
 import * as Web3 from '@solana/web3.js'
 
 async function main() {
-    const publicKey = 'CSfyLUFemVewNDtbxebpaStcLxcnKz4Kzb4wxndAsXsq'
+    const publicKey = '6PjvhDLKk777of3h1HizBxqnnWYG4Rj9Rm7CgRNgW1Vq'
 
     /* Get the devnet wallet connection */
     const URL = Web3.clusterApiUrl('devnet');
